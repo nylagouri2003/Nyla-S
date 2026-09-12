@@ -973,12 +973,11 @@ footer {
         transform: scale(0.85);
     }
 }
-  .availability {
+  p.availability {
     color: #00ff88 !important;
-    font-size: 14px;
-    font-weight: bold;
+    font-family: "Courier New", monospace !important;
+    font-size: 14px !important;
+    font-weight: bold !important;
     letter-spacing: 1px;
-    margin-bottom: 20px;
 }
-
 
