@@ -183,19 +183,27 @@ header {
 
 
 /* =========================================
-   PROFILE PHOTO
+   PROFILE PHOTO - SMALL CIRCLE
 ========================================= */
 
 .profile-container {
-    flex: 0 0 180px;
+    flex: 0 0 170px;
+    width: 170px;
+    height: 170px;
+
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .profile-image {
-    width: 150px !important;
-    height: 150px !important;
+    width: 140px !important;
+    height: 140px !important;
+
+    min-width: 140px !important;
+    min-height: 140px !important;
+    max-width: 140px !important;
+    max-height: 140px !important;
 
     border-radius: 50% !important;
     border: 2px solid #00ff88 !important;
