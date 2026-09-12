@@ -189,15 +189,15 @@ header {
 /* Profile Picture */
 
 .profile-container {
-    flex: 0 0 320px;
+    flex: 0 0 180px;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .profile-image {
-    width: 230px;
-    height: 230px;
+    width: 150px;
+    height: 150px;
 
     border-radius: 50%;
     border: 2px solid #00ff88;
