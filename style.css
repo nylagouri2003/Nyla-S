@@ -939,6 +939,39 @@ footer {
     background: #00ff88;
     color: #080b0d;
 }
+.availability {
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    padding: 12px 20px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    background: rgba(255, 255, 255, 0.03);
+    color: #ff6b5f;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 14px;
+    letter-spacing: 1px;
+}
 
+.status-dot {
+    width: 16px;
+    height: 16px;
+    background: #6cff9a;
+    border-radius: 50%;
+    box-shadow: 0 0 10px #6cff9a, 0 0 20px #6cff9a;
+    animation: pulse 1.5s infinite;
+}
+
+@keyframes pulse {
+    0%, 100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+
+    50% {
+        opacity: 0.5;
+        transform: scale(0.85);
+    }
+}
 
 
