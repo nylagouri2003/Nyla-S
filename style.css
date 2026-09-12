@@ -186,13 +186,6 @@ header {
    PROFILE PHOTO - RIGHT SIDE
 ========================================= */
 
-
-
-
-
-
-
-
 /* Profile image */
 
 .profile-image {
@@ -205,28 +198,8 @@ header {
     display: block;
 }
 
-/* Slight zoom on hover */
-
-.profile-frame:hover img {
-    transform: scale(1.03);
-}
 
 
-/* Terminal text below photo */
-
-.profile-label {
-    margin-top: 18px;
-
-    color: #8d989f;
-
-    font-size: 13px;
-
-    text-align: left;
-}
-
-.profile-label span {
-    color: #00ff88;
-}
 
 
 /* =========================================
