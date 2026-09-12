@@ -973,13 +973,12 @@ footer {
         transform: scale(0.85);
     }
 }
-   .availability {
+  .availability {
     color: #00ff88 !important;
-    font-size: 13px;
+    font-size: 14px;
     font-weight: bold;
     letter-spacing: 1px;
     margin-bottom: 20px;
 }
-   
 
 
