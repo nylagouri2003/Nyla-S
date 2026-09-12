@@ -186,18 +186,27 @@ header {
    PROFILE PHOTO - RIGHT SIDE
 ========================================= */
 
-/* Profile image */
+/* Profile Picture */
 
-.profile-image {
-    width: 350px;
-    height: 350px;
-    object-fit: cover;
-    object-position: 50% 42%;
-    border-radius: 50%;
-    border: 2px solid #00ff88;
-    display: block;
+.profile-container {
+    flex: 0 0 320px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
+.profile-image {
+    width: 280px;
+    height: 280px;
+
+    border-radius: 50%;
+    border: 2px solid #00ff88;
+
+    object-fit: cover;
+    object-position: center 40%;
+
+    display: block;
+}
 
 
 
