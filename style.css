@@ -197,19 +197,19 @@ header {
 }
 
 .profile-image {
-    width: 180px !important;
-    height: 180px !important;
+    width: 280px !important;
+    height: 280px !important;
 
-    min-width: 180px !important;
-    min-height: 180px !important;
-    max-width: 240px !important;
-    max-height: 240px !important;
+    min-width: 280px !important;
+    min-height: 280px !important;
+    max-width: 350px !important;
+    max-height: 350px !important;
 
     border-radius: 50% !important;
     border: 2px solid #00ff88 !important;
 
     object-fit: cover;
-    object-position: center 40%;
+    object-position: center 30%;
 
     display: block;
 }
