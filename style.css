@@ -973,22 +973,12 @@ footer {
         transform: scale(0.85);
     }
 }
-    .availability {
-    display: block;
-
-    margin-bottom: 20px;
-    padding: 7px 14px;
-
-    color: #00ff88;
-    border: 1px solid #00ff88;
-
-    font-size: 12px;
+   .availability {
+    color: #00ff88 !important;
+    font-size: 13px;
     font-weight: bold;
     letter-spacing: 1px;
-
-    background: rgba(0, 255, 136, 0.05);
-
-    text-shadow: 0 0 8px #00ff88;
+    margin-bottom: 20px;
 }
    
 
