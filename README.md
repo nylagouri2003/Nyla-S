@@ -41,7 +41,7 @@ Python | Linux | SHA-256 | Cybersecurity
 Developed a Python-based File Integrity Monitoring tool that detects unauthorized file changes using SHA-256 hashing. The tool supports baseline creation, integrity scanning, real-time monitoring, severity-based alerts, security logging, and security report generation.
 
 GitHub:
-https://github.com/nylagouri2003/file-integrity-monitor?utm_source=chatgpt.com
+https://github.com/nylagouri2003/file-integrity-monitor
 
 🔹 Wazuh SIEM & Sysmon Deployment
 
