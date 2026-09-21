@@ -4,7 +4,7 @@
 </a>
 
 
-I am a Cybersecurity Enthusiast focused on Vulnerability Assessment and Penetration Testing (VAPT), Ethical Hacking, SIEM, and Security Monitoring.
+I am a Cybersecurity Professional focused on Vulnerability Assessment and Penetration Testing (VAPT), Ethical Hacking, SIEM, and Security Monitoring.
 
 This repository contains my hands-on cybersecurity projects, labs, security research, notes, and practical learning.
 
