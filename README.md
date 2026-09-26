@@ -43,6 +43,14 @@ Developed a Python-based File Integrity Monitoring tool that detects unauthorize
 GitHub:
 https://github.com/nylagouri2003/file-integrity-monitor
 
+🔹Linux Security Auditing Tool
+
+Python-based Linux security auditing tool that checks firewall status, open ports, file permissions, SSH configuration, running services, package updates, and password policies. Generates security scores, risk levels, findings, recommendations, and security reports.
+
+**Technologies:** Python | Linux | Security Auditing | System Hardening | Vulnerability Assessment | Security Automation
+
+**GitHub:** https://github.com/nylagouri2003/linux-security-auditor
+
 🔹 Wazuh SIEM & Sysmon Deployment
 
 Security monitoring project focused on collecting and analyzing endpoint logs using Wazuh and Sysmon.
